@@ -9,12 +9,14 @@ menu:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**tl;dr**
+*Bradley Wright* is a husband, father, church planter, and IT professional currently based in Boston, Massachusetts.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+---
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I am married to my beautiful wife, Haley, of three years. This year we welcomed our wonderful baby boy, Hudson. We currently live in Boston where we are helping start a church. I work as a Systems Enginner for a great company downtown.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+>"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age." <cite>Matthew 28</cite>
+
 
 *Thank You for reading!*
