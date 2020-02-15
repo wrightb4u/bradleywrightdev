@@ -42,3 +42,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- content/posts/CenterChurch/introduction.md
