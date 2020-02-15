@@ -42,11 +42,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- content/posts/working-from-home.md
-- content/posts/photography.md
-- content/posts/nature.md
-- content/posts/moving-to-new-york.md
-- content/posts/fragments-of-iceland.md
-- content/posts/fox-village-in-japan.md
-- content/posts/basic-rules-for-walking-in-the-mountains.md
