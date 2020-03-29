@@ -1,14 +1,14 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: "/images/20190830_132718.jpg"
+layout: page
 menu:
   main:
     name: About
     weight: 2
-layout: page
----
 
+---
 **tl;dr**
 *Bradley Wright* is a husband, father, church planter, and IT professional currently based in Boston, Massachusetts.
 
