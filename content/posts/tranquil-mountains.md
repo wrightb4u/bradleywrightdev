@@ -2,8 +2,8 @@
 title: Peaks of Tranquility
 subtitle: The calm of nature
 date: '2019-10-13'
-thumb_img_path: images/mountains.jpg
-content_img_path: images/mountains.jpg
+thumb_img_path: images/peaks.jpg
+content_img_path: images/peaks.jpg
 excerpt: >-
   Most times, the escape from the city to the vast splendor of nature is the perfect medicine for stress and pressure.
 layout: post
